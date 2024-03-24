@@ -1,1 +1,1 @@
-FROM alpine:3.17.0_rc1
+FROM alpine:3.17.0_rc1@sha256:9dd89930b3a7cc289bb4c70b85b7a910acb21240f52c405e586ca54db078a0c5
